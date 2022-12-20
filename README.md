@@ -1,1 +1,1 @@
-# nostale
+# simple nostale bot
